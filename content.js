@@ -1,3 +1,4 @@
+console.log("Added");
 removeads();
 
 function removeads() {
@@ -26,7 +27,11 @@ function removeads() {
       footerAds[i]
         .getElementsByTagName("article")[0]
         .getElementsByTagName("div")[0]
-        .querySelector('div[aria-label^="Featured"')
+        .querySelector('div[aria-label^="Featured"') ||
+      footerAds[i]
+        .getElementsByTagName("article")[0]
+        .getElementsByTagName("div")[0]
+        .querySelector('div[aria-label^="Elite"')
     ) {
       footerAds[i].setAttribute("hidden", "");
     }
@@ -36,7 +41,11 @@ function removeads() {
       propertyBannerAds[i]
         .getElementsByTagName("article")[0]
         .getElementsByTagName("div")[0]
-        .querySelector('div[aria-label^="Featured"')
+        .querySelector('div[aria-label^="Featured"') ||
+      propertyBannerAds[i]
+        .getElementsByTagName("article")[0]
+        .getElementsByTagName("div")[0]
+        .querySelector('div[aria-label^="Elite"')
     ) {
       propertyBannerAds[i].setAttribute("hidden", "");
     }
