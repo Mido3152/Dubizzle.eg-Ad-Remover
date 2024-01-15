@@ -16,8 +16,11 @@
       "js": ["content.js"]
     }
   ],
-  "author": {
-    "name": "Mido3152",
-    "url": "https://github.com/Mido3152"
-  }
+  "host_permissions": ["*://www.dubizzle.com.eg/*"],
+  "author": [
+    {
+      "name": "Mido3152",
+      "url": "https://github.com/Mido3152"
+    }
+  ]
 }
