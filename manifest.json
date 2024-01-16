@@ -17,10 +17,6 @@
     }
   ],
   "host_permissions": ["*://www.dubizzle.com.eg/*"],
-  "author": [
-    {
-      "name": "Mido3152",
-      "url": "https://github.com/Mido3152"
-    }
-  ]
+  "author": "Mido315",
+  "homepage_url": "https://github.com/Mido3152"
 }
