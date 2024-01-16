@@ -18,6 +18,7 @@
   ],
   "host_permissions": ["*://www.dubizzle.com.eg/*"],
   "id": "iihdcifopmaiadfjbcidgceddckanjoi",
+  "browser_specific_settings.gecko.id": "iihdcifopmaiadfjbcidgceddckanjoi",
   "author": "Mido315",
   "homepage_url": "https://github.com/Mido3152"
 }
