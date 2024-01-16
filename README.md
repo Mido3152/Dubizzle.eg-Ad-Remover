@@ -4,13 +4,11 @@ This is my attempt at a browser extension that completely removes paid-for ads f
 
 ## Installation
 
-~- Download the [latest release](https://github.com/Mido3152/Dubizzle.eg-Ad-Remover/releases/).~
+- Download the [latest release](https://github.com/Mido3152/Dubizzle.eg-Ad-Remover/releases/).
 
-~- Extract the `.zip` file.~
+- Drag the `.zip` file and drop it manually into the extensions page of the browser(Developer Mode might be needed.).
 
-~-Drag the `.crx` file and drop it manually into the extensions page of the browser.~
-
-### Shipping to Chrome Webstore Soon!
+### Shipping to Chrome Webstore and Firefox Add-ons Soon!
 
 ## Building From Source
 
