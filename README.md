@@ -7,7 +7,7 @@ This is my attempt at a browser extension that completely removes paid-for ads f
 <a href="https://chromewebstore.google.com/detail/dubizzleeg-ad-remover/nnnmpbhndfmpgnnkpmhcnohdamcaillb">
 <img src="https://storage.googleapis.com/web-dev-uploads/image/WlD8wC6g8khYWPJUsQceQkhXSlv1/iNEddTyWiMfLSwFD6qGq.png" height="62px"></img>
 </a>
-<a href="https://chromewebstore.google.com/detail/dubizzleeg-ad-remover/nnnmpbhndfmpgnnkpmhcnohdamcaillb">
+<a href="https://addons.mozilla.org/en-US/firefox/addon/dubizzle-eg-ad-remover/">
 <img src="https://extensionworkshop.com/assets/img/documentation/publish/get-the-addon-178x60px.dad84b42.png" ></img>
 </a>
 
