@@ -52,7 +52,7 @@ function removeads() {
     }
   }
 }
-removeads(); // Honestly, no clue why this function is called twice. The code doesnt work if it isn't there 😝.
+removeads(); // Honestly, no clue why this function is called twice. The code doesnt work if it isn't there.
 
 // The run() function scans for dynamic changes in the page.
 async function run() {
