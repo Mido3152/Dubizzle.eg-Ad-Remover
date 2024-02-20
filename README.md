@@ -38,4 +38,4 @@ This is my attempt at a browser extension that completely removes paid-for ads f
 
 - Navigate to either the zip file or the source folder and click `Open`.
 
-- Make sure you replace tha `manifest.json` with the v2 version for Firefox.
+- Make sure you replace the `manifest.json` with the v2 version for Firefox.
